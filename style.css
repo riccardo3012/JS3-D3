@@ -1,0 +1,26 @@
+body {
+  background-color: khaki;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+}
+.card .card-img-top {
+  height: 250px;
+  object-fit: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 90px;
+}
+
+strong {
+  color: rgb(130, 19, 130);
+}
+
+span {
+  color: rgb(155, 0, 75);
+}
